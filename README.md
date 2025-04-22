@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rofia
--  ✨ An Aspiring software engineer with a strong foundation in web
+-  ✨ An Aspiring software engineer with a strong foundation in web dev
 - 👀 I’m interested in machine learning, Game dev and robotics
 - 💞️ I’m looking to collaborate on making a video game
 
