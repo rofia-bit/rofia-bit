@@ -9,6 +9,5 @@
 <p align="center">
   <img src =" https://i.imgur.com/qNof9Z4.png" width="100"/>
 </p>
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofia-bit&layout=compact&theme=tokyonight)
+
 
