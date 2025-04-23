@@ -5,3 +5,7 @@
 
 ### GitHub Stats
 ![Rofia's GitHub stats](https://github-readme-stats.vercel.app/api?username=rofia-bit&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rofia-bit&theme=tokyonight)
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofia-bit&layout=compact&theme=tokyonight)
+
