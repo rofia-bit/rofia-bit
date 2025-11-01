@@ -20,9 +20,27 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
 
+
+
+
+<h2 align="center">GitHub Stats</h2>
+<div align="center">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rofia-bit&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" width="400" />
+  <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofia-bit&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="300" />
+  
+  
+</div>
+  <div style="display: flex; justify-content: center; margin-top: 10px;">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=TahaNacibe&theme=transparent&hide_border=true" width="400" />
+  </div>
+</div>
 
 
 
