@@ -38,7 +38,7 @@
   
 </div>
   <div style="display: flex; justify-content: center; margin-top: 10px;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=TahaNacibe&theme=transparent&hide_border=true" width="400" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rofia-bit&theme=transparent&hide_border=true" width="400" />
   </div>
 </div>
 
